@@ -32,9 +32,9 @@ Strong understanding of RESTful APIs, AWS technologies, and UI/UX standards.
 Proven track record in performance tuning, memory optimization, and crash analysis.
 Experience working with software development tools such as Git and Jira.`;
 
-const sampleResume = `Ramadhan Kamarulazam (Mobile Developer)
-ramadanazam93@gmail.com +60132678469
-https://github.com/dhanazam https://www.linkedin.com/in/ramadhan-norkamarulazam-21934812b/
+const sampleResume = `Irwan Test (Mobile Developer)
+irwan Test@gmail.com +60182823114
+https://github.com/irwan-katsana 
 
 Summary
 Mobile developer with 6 years of professional experience software development. My goal is to contribute as Mobile developer to your projects involving the Flutter, Android ecosystem and React Native.
@@ -70,9 +70,9 @@ University institute Teknologi MARA – BSc Computational Mathematics.
 
 const sampleResponse: ResumeScore = {
   candidateInfo: {
-    fullName: "Ramadhan Kamarulazam",
-    email: "ramadanazam93@gmail.com",
-    contactNumber: "+60132678469",
+    fullName: "Irwan Test",
+    email: "irwan@katsana.com",
+    contactNumber: "+60182823114",
     currentTitle: "Mobile Developer",
     totalExperience: "6 years",
     longestEmployment: "3 years 3 months (Archisoft Global)",
